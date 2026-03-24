@@ -28396,7 +28396,7 @@ Wl(){var s=this,r=s.r
 if(r==null){r=s.r=new A.Br(s.c)
 r.d=new A.Tn(s)}return r},
 BK(a){var s,r,q,p,o,n,m=this
-if(B.b.u(B.DW,a.type)){s=m.Wl()
+if(B.b.u(B.DX,a.type)){s=m.Wl()
 s.toString
 r=m.c.$0()
 q=r.b
@@ -46899,7 +46899,7 @@ p=h.gkc()
 o=h.r
 o=o==null?g:o*a2+a1
 n=h.w
-n=n==null?g:B.DX[B.h.e2(n.gmz(),0,8)]
+n=n==null?g:B.DY[B.h.e2(n.gmz(),0,8)]
 m=h.y
 m=m==null?g:m*a6+a5
 l=h.z
@@ -67476,7 +67476,7 @@ r=A.aj(o,0)
 l=A.n_(A.c([s,B.JG,A.lR(A.akd(q,0.1,A.aj(2e5,0),r,0),45,p)],l),B.aa,B.c_)}else l=A.es(A.c([A.da(A.d6(new A.za(p)),p,A.aj(o,0)),B.w8,A.da(A.d6(new A.xH(p)),p,A.aj(o,0))],l),B.aa,B.a8)
 return A.cZ(p,l,B.v,B.bs,p,p,p,p,p,new A.bc(m,100,m,100),p,p,1/0)}}
 A.xH.prototype={
-J(a){return A.es(A.c([B.I6,B.ja,A.cT("After over six years in the software development industry, I can confidently say I\u2019ve found my stride\u2014both technically and creatively. My journey began with Python and its diverse ecosystem of frameworks, where I built data-driven applications and honed my backend expertise. However, everything changed when I discovered Flutter while exploring options for my graduation project. What started as a tool quickly became a passion\u2014and eventually, my specialty.\n\nOver the past few years, Flutter has transformed the way I approach product development. Its expressive UI capabilities, cross-platform flexibility, and developer-friendly architecture have empowered me to build scalable, high-performance apps with precision and speed. From designing pixel-perfect interfaces to architecting clean and maintainable codebases, I\u2019ve developed a deep appreciation for the balance between frontend elegance and robust backend systems.\n\nAs the current CTO and co-founder of Shpper, a Dubai-based tech startup, I lead the technical vision and oversee the development of our core platform, leveraging Flutter as the foundation for our mobile experience. My role spans product strategy, code quality enforcement, team leadership, and long-term scalability planning. Prior to this, I was involved in multiple freelance and startup projects where I delivered full-stack solutions, mentored junior developers, and collaborated cross-functionally to bring complex ideas to life.\n\nWhat sets me apart is not just my proficiency in Flutter or Python, but my mindset\u2014an engineer\u2019s curiosity combined with a founder\u2019s resilience. The years of uncertainty and self-doubt I once faced have shaped me into a confident and adaptive professional who thrives in fast-paced, goal-driven environments.\n\nFlutter is more than just a tool in my stack\u2014it\u2019s where I do my best work. And I\u2019m always pushing to master it further, explore its depths, and build things that matter.\n",null,null,$.adk(),null),B.w7,B.Qb],t.p),B.a1,B.a8)}}
+J(a){return A.es(A.c([B.I6,B.ja,A.cT("Over six years of shipping production software have taken me from writing my first Python scripts to leading enterprise-scale engineering teams as a CTO. Flutter became my primary craft early on, and today I engineer full-stack, cloud-native systems at the intersection of mobile, AI, and infrastructure.\n\nFlutter & Firebase are the core of my craft. I've built and launched a dozen production apps \u2014 from real-time fintech dashboards to social platforms \u2014 architecting everything from Firestore data models and Firebase ML pipelines to push notifications and in-app monetization. When the backend needs more muscle, I design REST APIs and GraphQL services that integrate cleanly with any client.\n\nCloud & DevOps are where modern engineering happens. I run production workloads on both Google Cloud Platform and AWS, containerize with Docker, orchestrate with Kubernetes, and build zero-downtime CI/CD pipelines that cut deploy cycles from days to minutes. Automated testing suites and robust monitoring are non-negotiables in everything I ship.\n\nAI integration is now part of every product I build. I embed machine learning into mobile and web experiences \u2014 from on-device inference to LLM-powered features \u2014 and leverage Firebase ML and cloud AI services to deliver intelligent, context-aware applications that stand apart.\n\nAs CTO and Co-founder of Shpper, a Dubai-based tech startup, I lead a distributed team of 20+ engineers across multiple time zones. I drive technical vision, enforce architecture standards, manage enterprise delivery roadmaps, and mentor the next generation of developers. The best engineers are also great communicators and leaders \u2014 and I strive to be both.\n",null,null,$.adk(),null),B.w7,B.Qb],t.p),B.a1,B.a8)}}
 A.qS.prototype={
 J(a){var s=null
 return A.es(A.c([new A.DF(this.c,A.nR().$4$color$fontSize$fontWeight$letterSpacing(B.aK,40,B.aZ,-0.5),s),B.JN,A.cT(this.d,s,s,$.lp().a4m(B.cl,1.5,0.5),s)],t.p),B.a1,B.a8)}}
@@ -67693,7 +67693,7 @@ else s=r>=680?3:2
 return A.ais(new A.Hg(s,12,12,1,90),new A.a2S(),27,B.qF,!0)},
 $S:156}
 A.a2S.prototype={
-$2(a,b){var s=A.d6(new A.wE(B.DY[b],null)),r=A.aj(5e5,0),q=b*35
+$2(a,b){var s=A.d6(new A.wE(B.DV[b],null)),r=A.aj(5e5,0),q=b*35
 r=A.da(s,A.aj(0,q),r)
 s=A.aj(5e5,0)
 return A.i6(r,0.2,A.aj(0,q),s,0)},
@@ -71227,8 +71227,8 @@ B.x_=new A.zw(1,"anonymous")
 B.CI=s([B.jr,B.x_],A.ac("x<zw>"))
 B.Da=s([0.41233895,0.35762064,0.18051042],t.n)
 B.CY=s([0.2126,0.7152,0.0722],t.n)
-B.DV=s([0.01932141,0.11916382,0.95034478],t.n)
-B.bS=s([B.Da,B.CY,B.DV],t.zg)
+B.DW=s([0.01932141,0.11916382,0.95034478],t.n)
+B.bS=s([B.Da,B.CY,B.DW],t.zg)
 B.ln=s([0,4,12,1,5,13,3,7,15],t.t)
 B.bG=new A.jf(0,"left")
 B.cF=new A.jf(1,"right")
@@ -71335,36 +71335,36 @@ B.iv=new A.f_(7,"functionModifier")
 B.qC=new A.f_(8,"symbolModifier")
 B.lw=s([B.cr,B.cs,B.ct,B.cu,B.is,B.it,B.iu,B.iv,B.qC],A.ac("x<f_>"))
 B.i9=s([!0,!1],t.HZ)
-B.DW=s(["pointerdown","pointermove","pointerleave","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseleave","mouseup","wheel"],t.s)
-B.DX=s([B.co,B.ex,B.ey,B.l,B.F,B.aZ,B.az,B.ez,B.db],A.ac("x<dB>"))
-B.K5=new A.bM("Flutter","assets/icons/icons8-flutter-480.png",90)
-B.JZ=new A.bM("Dart","assets/icons/icons8-dart-480.png",98)
-B.Kd=new A.bM("Firebase","assets/icons/icons8-firebase-480.png",92)
-B.JT=new A.bM("Authentication","assets/icons/icons8-authentication-480.png",98)
-B.JV=new A.bM("Cloud Firestore","assets/icons/icons8-cloud-firestore-480.png",100)
-B.K3=new A.bM("Realtime Database","assets/icons/icons8-realtime-database-480.png",97)
-B.K2=new A.bM("Firebase ML","assets/icons/icons8-firebase-ml-480.png",88)
-B.JS=new A.bM("In App Messaging","assets/icons/icons8-in-app-messaging-480.png",85)
-B.K9=new A.bM("Google Cloud","assets/icons/icons8-google-cloud-480.png",89)
-B.Kb=new A.bM("Google AdMob","assets/icons/icons8-google-admob-480.png",93)
-B.K_=new A.bM("Python","assets/icons/icons8-python-480.png",99)
-B.Kg=new A.bM("Django","assets/icons/icons8-django-480.png",80)
-B.K7=new A.bM("Java","assets/icons/icons8-java-480.png",81)
-B.Kc=new A.bM("Ruby","assets/icons/icons8-ruby-programming-language-480.png",80)
-B.Ke=new A.bM("HTML 5","assets/icons/icons8-html-5-480.png",99)
-B.K1=new A.bM("CSS 3","assets/icons/icons8-css3-480.png",93)
-B.JX=new A.bM("JavaScript","assets/icons/icons8-javascript-480.png",75)
-B.Kf=new A.bM("WordPress","assets/icons/icons8-wordpress-480.png",84)
-B.K6=new A.bM("MySQL","assets/icons/icons8-mysql-logo-480.png",89)
-B.JW=new A.bM("PostgreSQL","assets/icons/icons8-postgresql-480.png",90)
-B.K8=new A.bM("MongoDB","assets/icons/icons8-mongodb-480.png",85)
-B.JU=new A.bM("GraphQL","assets/icons/icons8-graphql-480.png",76)
-B.Ka=new A.bM("Git","assets/icons/icons8-git-480.png",96)
+B.K9=new A.bM("Flutter","assets/icons/icons8-flutter-480.png",98)
+B.K0=new A.bM("Dart","assets/icons/icons8-dart-480.png",98)
+B.JY=new A.bM("Firebase","assets/icons/icons8-firebase-480.png",95)
+B.K2=new A.bM("Google Cloud","assets/icons/icons8-google-cloud-480.png",92)
+B.JZ=new A.bM("AWS","assets/icons/icons8-aws-480.png",88)
+B.Kb=new A.bM("Docker","assets/icons/icons8-docker-480.png",92)
+B.Kc=new A.bM("Kubernetes","assets/icons/icons8-kubernetes-480.png",85)
+B.K7=new A.bM("CI / CD","assets/icons/icons8-cicd-480.png",90)
+B.Ke=new A.bM("AI / ML","assets/icons/icons8-ai-480.png",88)
+B.Kd=new A.bM("REST APIs","assets/icons/icons8-rest-api-480.png",97)
+B.JU=new A.bM("GraphQL","assets/icons/icons8-graphql-480.png",82)
+B.JV=new A.bM("Firebase ML","assets/icons/icons8-firebase-ml-480.png",90)
+B.K3=new A.bM("Python","assets/icons/icons8-python-480.png",95)
+B.JX=new A.bM("Django","assets/icons/icons8-django-480.png",85)
+B.Kg=new A.bM("JavaScript","assets/icons/icons8-javascript-480.png",80)
+B.K5=new A.bM("Cloud Firestore","assets/icons/icons8-cloud-firestore-480.png",99)
+B.K8=new A.bM("Realtime Database","assets/icons/icons8-realtime-database-480.png",97)
+B.JW=new A.bM("PostgreSQL","assets/icons/icons8-postgresql-480.png",92)
+B.K6=new A.bM("MySQL","assets/icons/icons8-mysql-logo-480.png",88)
+B.JT=new A.bM("MongoDB","assets/icons/icons8-mongodb-480.png",87)
+B.K1=new A.bM("Git","assets/icons/icons8-git-480.png",97)
 B.Kh=new A.bM("GitHub","assets/icons/icons8-github-480.png",99)
-B.K0=new A.bM("cPanel","assets/icons/icons8-cpanel-480.png",88)
-B.JY=new A.bM("Heroku","assets/icons/icons8-heroku-480.png",78)
-B.K4=new A.bM("Kali Linux","assets/icons/icons8-kali-linux-480.png",70)
-B.DY=s([B.K5,B.JZ,B.Kd,B.JT,B.JV,B.K3,B.K2,B.JS,B.K9,B.Kb,B.K_,B.Kg,B.K7,B.Kc,B.Ke,B.K1,B.JX,B.Kf,B.K6,B.JW,B.K8,B.JU,B.Ka,B.Kh,B.K0,B.JY,B.K4],A.ac("x<bM>"))
+B.Ka=new A.bM("Testing & QA","assets/icons/icons8-testing-480.png",92)
+B.K_=new A.bM("Project Mgmt","assets/icons/icons8-project-mgmt-480.png",95)
+B.JS=new A.bM("Authentication","assets/icons/icons8-authentication-480.png",98)
+B.Kf=new A.bM("HTML 5","assets/icons/icons8-html-5-480.png",99)
+B.K4=new A.bM("CSS 3","assets/icons/icons8-css3-480.png",93)
+B.DV=s([B.K9,B.K0,B.JY,B.K2,B.JZ,B.Kb,B.Kc,B.K7,B.Ke,B.Kd,B.JU,B.JV,B.K3,B.JX,B.Kg,B.K5,B.K8,B.JW,B.K6,B.JT,B.K1,B.Kh,B.Ka,B.K_,B.JS,B.Kf,B.K4],A.ac("x<bM>"))
+B.DX=s(["pointerdown","pointermove","pointerleave","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseleave","mouseup","wheel"],t.s)
+B.DY=s([B.co,B.ex,B.ey,B.l,B.F,B.aZ,B.az,B.ez,B.db],A.ac("x<dB>"))
 B.DZ=s([0.015176349177441876,0.045529047532325624,0.07588174588720938,0.10623444424209313,0.13658714259697685,0.16693984095186062,0.19729253930674434,0.2276452376616281,0.2579979360165119,0.28835063437139563,0.3188300904430532,0.350925934958123,0.3848314933096426,0.42057480301049466,0.458183274052838,0.4976837250274023,0.5391024159806381,0.5824650784040898,0.6277969426914107,0.6751227633498623,0.7244668422128921,0.775853049866786,0.829304845476233,0.8848452951698498,0.942497089126609,1.0022825574869039,1.0642236851973577,1.1283421258858297,1.1946592148522128,1.2631959812511864,1.3339731595349034,1.407011200216447,1.4823302800086415,1.5599503113873272,1.6398909516233677,1.7221716113234105,1.8068114625156377,1.8938294463134073,1.9832442801866852,2.075074464868551,2.1693382909216234,2.2660538449872063,2.36523901573795,2.4669114995532007,2.5710888059345764,2.6777882626779785,2.7870270208169257,2.898822059350997,3.0131901897720907,3.1301480604002863,3.2497121605402226,3.3718988244681087,3.4967242352587946,3.624204428461639,3.754355295633311,3.887192587735158,4.022731918402185,4.160988767090289,4.301978482107941,4.445716283538092,4.592217266055746,4.741496401646282,4.893568542229298,5.048448422192488,5.20615066083972,5.3666897647573375,5.5300801301023865,5.696336044816294,5.865471690767354,6.037501145825082,6.212438385869475,6.390297286737924,6.571091626112461,6.7548350853498045,6.941541251256611,7.131223617812143,7.323895587840543,7.5195704746346665,7.7182615035334345,7.919981813454504,8.124744458384042,8.332562408825165,8.543448553206703,8.757415699253682,8.974476575321063,9.194643831691977,9.417930041841839,9.644347703669503,9.873909240696694,10.106627003236781,10.342513269534024,10.58158024687427,10.8238400726681,11.069304815507364,11.317986476196008,11.569896988756009,11.825048221409341,12.083451977536606,12.345119996613247,12.610063955123938,12.878295467455942,13.149826086772048,13.42466730586372,13.702830557985108,13.984327217668513,14.269168601521828,14.55736596900856,14.848930523210871,15.143873411576273,15.44220572664832,15.743938506781891,16.04908273684337,16.35764934889634,16.66964922287304,16.985093187232053,17.30399201960269,17.62635644741625,17.95219714852476,18.281524751807332,18.614349837764564,18.95068293910138,19.290534541298456,19.633915083172692,19.98083495742689,20.331304511189067,20.685334046541502,21.042933821039977,21.404114048223256,21.76888489811322,22.137256497705877,22.50923893145328,22.884842241736916,23.264076429332462,23.6469514538663,24.033477234264016,24.42366364919083,24.817520537484558,25.21505769858089,25.61628489293138,26.021211842414342,26.429848230738664,26.842203703840827,27.258287870275353,27.678110301598522,28.10168053274597,28.529008062403893,28.96010235337422,29.39497283293396,29.83362889318845,30.276079891419332,30.722335150426627,31.172403958865512,31.62629557157785,32.08401920991837,32.54558406207592,33.010999283389665,33.4802739966603,33.953417292456834,34.430438229418264,34.911345834551085,35.39614910352207,35.88485700094671,36.37747846067349,36.87402238606382,37.37449765026789,37.87891309649659,38.38727753828926,38.89959975977785,39.41588851594697,39.93615253289054,40.460400508064545,40.98864111053629,41.520882981230194,42.05713473317016,42.597404951718396,43.141702194811224,43.6900349931913,44.24241185063697,44.798841244188324,45.35933162437017,45.92389141541209,46.49252901546552,47.065252796817916,47.64207110610409,48.22299226451468,48.808024568002054,49.3971762874833,49.9904556690408,50.587870934119984,51.189430279724725,51.79514187861014,52.40501387947288,53.0190544071392,53.637271562750364,54.259673423945976,54.88626804504493,55.517063457223934,56.15206766869424,56.79128866487574,57.43473440856916,58.08241284012621,58.734331877617365,59.39049941699807,60.05092333227251,60.715611475655585,61.38457167773311,62.057811747619894,62.7353394731159,63.417162620860914,64.10328893648692,64.79372614476921,65.48848194977529,66.18756403501224,66.89098006357258,67.59873767827808,68.31084450182222,69.02730813691093,69.74813616640164,70.47333615344107,71.20291564160104,71.93688215501312,72.67524319850172,73.41800625771542,74.16517879925733,74.9167682708136,75.67278210128072,76.43322770089146,77.1981124613393,77.96744375590167,78.74122893956174,79.51947534912904,80.30219030335869,81.08938110306934,81.88105503125999,82.67721935322541,83.4778813166706,84.28304815182372,85.09272707154808,85.90692527145302,86.72564993000343,87.54890820862819,88.3767072518277,89.2090541872801,90.04595612594655,90.88742016217518,91.73345337380438,92.58406282226491,93.43925555268066,94.29903859396902,95.16341895893969,96.03240364439274,96.9059996312159,97.78421388448044,98.6670533535366,99.55452497210776],t.n)
 B.k=new A.uQ(0,"ignored")
 B.af=new A.e(4294967304)
