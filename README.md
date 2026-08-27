@@ -1,6 +1,6 @@
 # devshakib015.github.io
 
-This site has **moved** to **https://devshakibio.web.app**.
+This site has **moved** to **https://devshakib.jumyn.com**.
 
 This repo is now a redirect stub only. `index.html` and `404.html` are the same
 page: it sets `rel=canonical` to the new domain, redirects via JS (falling back

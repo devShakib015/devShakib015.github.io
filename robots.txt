@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://devshakibio.web.app/sitemap.xml
+Sitemap: https://devshakib.jumyn.com/sitemap.xml
